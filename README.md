@@ -25,27 +25,25 @@ The project follows a structured EDA workflow including data profiling, cleaning
 
 ## Key Features
 
-+----------------------+----------------------------------+
-| Column               | Description                      |
-+----------------------+----------------------------------+
-| Row_Number           | Record identifier                |
-| Customer_Id          | Unique customer identifier       |
-| Surname              | Customer surname                 |
-| Credit_Score         | Customer credit score            |
-| Geography            | Customer region                  |
-| Gender               | Customer gender                  |
-| Age                  | Customer age                     |
-| Tenure               | Years with the bank              |
-| Balance              | Account balance                  |
-| Num_Of_Products      | Number of products used          |
-| Has_Cr_Card          | Credit card ownership            |
-| Is_Active_Member     | Active member status             |
-| Estimated_Salary     | Estimated annual salary          |
-| Exited               | Customer churn status            |
-| Join_Date            | Customer joining date            |
-| Last_Transaction_Date| Most recent transaction date     |
-| Account_Type         | Customer account type            |
-+----------------------+----------------------------------+
+| Feature | Description |
+|----------|-------------|
+| Row_Number | Record identifier |
+| Customer_Id | Unique customer identifier |
+| Surname | Customer surname |
+| Credit_Score | Customer credit score |
+| Geography | Customer region |
+| Gender | Customer gender |
+| Age | Customer age |
+| Tenure | Years with the bank |
+| Balance | Account balance |
+| Num_Of_Products | Number of products used |
+| Has_Cr_Card | Credit card ownership |
+| Is_Active_Member | Active member status |
+| Estimated_Salary | Estimated annual salary |
+| Exited | Customer churn status |
+| Join_Date | Customer joining date |
+| Last_Transaction_Date | Most recent transaction date |
+| Account_Type | Customer account type |
 
 ### Target Variable
 
